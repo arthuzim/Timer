@@ -1,0 +1,82 @@
+.iniciar {
+    box-shadow: inset 0px 0px 25px -2px #23395e;
+    background: linear-gradient(to bottom, #2e466e 5%, #415989 100%);
+    background-color: #2e466e;
+    border-radius: 21px;
+    border: 1px solid #1f2f47;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 21px;
+    padding: 9px 20px;
+    text-decoration: none;
+    text-shadow: 2px 2px 28px #263666;
+}
+
+.iniciar:hover {
+    background: linear-gradient(to bottom, #415989 5%, #2e466e 100%);
+    background-color: #415989;
+}
+
+.iniciar:active {
+    position: relative;
+    top: 1px;
+}
+
+
+
+
+.pausar {
+    box-shadow: inset 0px 0px 25px -2px #23395e;
+    background: linear-gradient(to bottom, #2e466e 5%, #415989 100%);
+    background-color: #2e466e;
+    border-radius: 21px;
+    border: 1px solid #1f2f47;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 21px;
+    padding: 9px 20px;
+    text-decoration: none;
+    text-shadow: 2px 2px 28px #263666;
+}
+
+.pausar:hover {
+    background: linear-gradient(to bottom, #415989 5%, #2e466e 100%);
+    background-color: #415989;
+}
+
+.pausar:active {
+    position: relative;
+    top: 1px;
+}
+
+
+
+.reiniciar {
+    box-shadow: inset 0px 0px 25px -2px #23395e;
+    background: linear-gradient(to bottom, #2e466e 5%, #415989 100%);
+    background-color: #2e466e;
+    border-radius: 21px;
+    border: 1px solid #1f2f47;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 21px;
+    padding: 9px 20px;
+    text-decoration: none;
+    text-shadow: 2px 2px 28px #263666;
+}
+
+.reiniciar:hover {
+    background: linear-gradient(to bottom, #415989 5%, #2e466e 100%);
+    background-color: #415989;
+}
+
+.reiniciar:active {
+    position: relative;
+    top: 1px;
+}
